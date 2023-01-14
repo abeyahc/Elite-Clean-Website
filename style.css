@@ -1,0 +1,15 @@
+.navbar {
+    background: rgb(209, 209, 209);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    width: 100px;
+    height: 100px;
+    gap: 2rem;
+}
+
+.navbar li {
+    display: inline;
+    float: right;
+}
